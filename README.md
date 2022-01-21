@@ -1,7 +1,9 @@
+##  EDA Project | T5-Bootcamp-SDAIA
+
 # Walmart Online Pick-up Orders Machine 
 
 
- 
+![Picture](https://assets1.progressivegrocer.com/files/styles/content_sm/s3/2019-10/img-1269.jpg?itok=3l165AUZ) 
                                           
 
 ## Company background:
